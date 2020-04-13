@@ -1,8 +1,5 @@
 # 廣告退散
 
-- <https://github.com/bestpika/abp/>
-- <https://bestpika.github.io/abp/>
-
 ## 過濾器
 
 ### Main
@@ -10,26 +7,16 @@
 ```
 ! ABP
 https://bestpika.github.io/abp/yui.txt
-https://gist.github.com/bestpika/5e414a4f60b2a996a6fb31ec592a56b4/raw/hide.txt
-https://280blocker.net/files/280blocker_adblock.txt
-https://filters.adtidy.org/extension/ublock/filters/3.txt
-https://filters.adtidy.org/extension/ublock/filters/15.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
 https://github.com/Yhonay/antipopads/raw/master/popads.txt
 https://github.com/cjx82630/cjxlist/raw/master/cjxlist.txt
 https://github.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt
+https://github.com/hoshsadiq/adblock-nocoin-list/raw/master/nocoin.txt
 ! AAK
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 https://github.com/jspenguin2017/uBlockProtector/raw/master/uBlockProtectorList.txt
 ! HOSTS
-https://github.com/badmojr/1Hosts/raw/master/mini/hosts.txt
-https://hosts-file.net/ad_servers.txt
-https://hosts-file.net/emd.txt
-https://hosts-file.net/exp.txt
-https://hosts-file.net/hjk.txt
-https://hosts-file.net/mmt.txt
-https://github.com/hoshsadiq/adblock-nocoin-list/raw/master/nocoin.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt
 ```
@@ -38,58 +25,31 @@ https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt
 
 ```
 https://github.com/StevenBlack/hosts/raw/master/hosts
-https://adaway.org/hosts.txt
 http://winhelp2002.mvps.org/hosts.txt
-https://www.malwaredomainlist.com/hostslist/hosts.txt
-https://mirror1.malwaredomains.com/files/justdomains
-https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
-https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt
-https://ransomwaretracker.abuse.ch/downloads/RW_URLBL.txt
+
 ```
 
 ### AdGuard
 
 ```
-https://filters.adtidy.org/extension/chromium/filters/3.txt
-https://filters.adtidy.org/extension/chromium/filters/15.txt
----
+https://filters.adtidy.org/extension/ublock/filters/2.txt
 https://filters.adtidy.org/extension/ublock/filters/3.txt
+https://filters.adtidy.org/extension/ublock/filters/4.txt
+https://filters.adtidy.org/extension/ublock/filters/11.txt
+https://filters.adtidy.org/extension/ublock/filters/12.txt
 https://filters.adtidy.org/extension/ublock/filters/15.txt
 ```
 
 ### Disconnect
 
 ```
-https://disconnect.me/lists/adfilter
-https://disconnect.me/lists/basicfilter
-https://disconnect.me/lists/malvertising
-https://disconnect.me/lists/malwarefilter
----
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 ```
 
-### Windscribe
 
-```
-https://assets.windscribe.com/extension/ws/easylist.txt
-https://assets.windscribe.com/extension/ws/easyprivacy.txt
-https://assets.windscribe.com/extension/ws/malwaredomains.txt
-https://assets.windscribe.com/extension/ws/fanboy-social.txt
-```
-
-## GitHub CDN
-
-- <https://rawgit.com>
-- <https://gitcdn.xyz>
-- <https://raw.githack.com>
-
-## DNS
-
-- <https://kb.adguard.com/en/general/dns-providers>
-- <https://adguard.com/en/adguard-dns/overview.html>
 
 ## 過濾器清單
 

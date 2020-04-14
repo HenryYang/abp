@@ -1,12 +1,11 @@
-# 廣告退散
-
-## 過濾器
 
 ### Main
 
 ```
 ! ABP
-https://bestpika.github.io/abp/yui.txt
+https://raw.githubusercontent.com/HenryYang/abp/master/tw_ad.txt
+https://raw.githubusercontent.com/HenryYang/abp/master/yui.txt
+https://raw.githubusercontent.com/HenryYang/abp/master/hosts.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
 https://github.com/Yhonay/antipopads/raw/master/popads.txt
@@ -19,14 +18,8 @@ https://github.com/jspenguin2017/uBlockProtector/raw/master/uBlockProtectorList.
 ! HOSTS
 https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt
-```
-
-### Other
-
-```
 https://github.com/StevenBlack/hosts/raw/master/hosts
 http://winhelp2002.mvps.org/hosts.txt
-
 ```
 
 ### AdGuard
@@ -51,15 +44,10 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 
 
 
-## 過濾器清單
-
-### AdGuard
+## Reference
 
 - <https://filters.adtidy.org/windows/filters.json>
 - <https://filters.adtidy.org/mac_v2/filters.json>
-
-### 相關網站
-
 - <https://adblockplus.org/en/subscriptions>
 - <https://kb.adguard.com/en/general/adguard-ad-filters>
 - <https://easylist.to>
@@ -67,9 +55,6 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 - <https://firebog.net>
 - <https://hosts-file.net>
 - <https://zeltser.com/malicious-ip-blocklists/>
-
-### 清單
-
 - <https://github.com/badmojr/1Hosts>
 - <https://github.com/CHEF-KOCH/CKs-FilterList>
 - <https://github.com/hoshsadiq/adblock-nocoin-list>
